@@ -1,0 +1,36 @@
+[33mcommit 5d9806e2a91907a8dc4b09198e46ce0651ce244f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Muhammad Muneeb Waseem <muneebwaseem78@gmail.com>
+Date:   Sun Aug 30 23:18:17 2020 +0500
+
+    update basic react app
+    
+    add hello.js and update app.js and index.js
+
+[33mcommit 78453dbf5872a34f60a392e0c4fb472df8934463[m
+Merge: 5317fbc 9b8c4fd
+Author: Muhammad Muneeb Waseem <muneebwaseem78@gmail.com>
+Date:   Fri Aug 28 22:59:33 2020 +0500
+
+    Merge branch 'master' of https://github.com/MUHAMMAD-MUNEEB-WASEEM/project003
+
+[33mcommit 5317fbcdd8b5a79ac17e89f77c42802cfe25db1b[m
+Author: Muhammad Muneeb Waseem <muneebwaseem78@gmail.com>
+Date:   Fri Aug 28 22:59:28 2020 +0500
+
+    Update app.js
+    
+    add one p tag
+
+[33mcommit 9b8c4fd74eef14c9e056e5d8a67553148373b479[m
+Author: MUHAMMAD-MUNEEB-WASEEM <50763652+MUHAMMAD-MUNEEB-WASEEM@users.noreply.github.com>
+Date:   Fri Aug 28 22:02:01 2020 +0500
+
+    Create surge_deploy.yml
+    
+    Deploying my first basic react app on surge
+
+[33mcommit 575f598f7e8201453bcbafd42eec22967237095b[m
+Author: Muhammad Muneeb Waseem <muneebwaseem78@gmail.com>
+Date:   Fri Aug 28 21:06:41 2020 +0500
+
+    Initialize project using Create React App
