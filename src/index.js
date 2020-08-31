@@ -30,7 +30,7 @@ ReactDOM.render(
     //using properties
 
     //using name property
-    <div><App name="Muhammad Muneeb Waseem" age={20} /></div>,
+    <div><App name="Muhammad Muneeb Waseem" age={25} /></div>,
     //to pass age we use {} as it is used for expression
     document.getElementById('root')
 )

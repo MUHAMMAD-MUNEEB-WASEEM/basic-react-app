@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import './self.css';
 
 
 //This is another js file in which we again create another function and call is in app.js, this function will
@@ -7,8 +8,8 @@ import './App.css';
 //<App />
 function Hello({fname, age})//just random variable in order to use properties
  {
-  return <p>
-          Hello, my fullname is {fname} and my age is {age}
+  return <p className="text-color">
+          Hello, my fullname is {fname} and my age is {age - 5}
         </p>//this is not js, it is jsx->javascript xml
     
 }
