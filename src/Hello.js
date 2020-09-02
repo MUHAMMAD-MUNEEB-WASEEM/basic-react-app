@@ -8,9 +8,11 @@ import './self.css';
 //<App />
 function Hello({fname, age})//just random variable in order to use properties
  {
-  return <p className="text-color">
-          Hello, my fullname is {fname} and my age is {age - 5}
-        </p>//this is not js, it is jsx->javascript xml
+  return <div className="text-color">
+                <p>
+                Hello, my fullname is <strong>{fname}</strong> and my age is {age - 5}
+                </p>
+        </div>//this is not js, it is jsx->javascript xml
     
 }
 export default Hello;

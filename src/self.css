@@ -1,3 +1,29 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .text-color{
-    color: orange;
+    color: green;
+    background: yellow;
+}
+.center{
+    display: block;
+    text-align: center;
+    
+    
+}
+ul {
+    text-align: left;
+    width: 45%;
+    position:relative;
+    left: 42%;
+    }
+.height{
+    padding-top: 1%;
+}
+h3{
+    font-size: 25px;
+}
+h1{
+    font-size: 30px;
 }
